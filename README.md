@@ -1,9 +1,9 @@
-<h2>Card game - the Last Player</h2>
-Number of decks: 1
-Number of cards in deck: 52 and 2 jokers
-Number of players: 4 (1 player and 3 bots)
-Seniority of cards: 2, 3, 4, 5, 6, 7, 8, 9, 10, J, Q, K, A.
-The aim of the game is to score the fewest number of penalty points.
+<h1>Card game - the Last Player</h1>
+<h4> Number of decks: 1 </h4>
+<h4> Number of cards in deck: 52 and 2 jokers </h4>
+<h4> Number of players: 4 (1 player and 3 bots) </h4> 
+<h4> Seniority of cards: 2, 3, 4, 5, 6, 7, 8, 9, 10, J, Q, K, A. </h4> 
+<h4> The aim of the game is to score the fewest number of penalty points. </h4> 
 
 A player may place any card he wishes open in the center of the table. 
 This card is the start of the discard. The turn then passes to the next player clockwise, 
