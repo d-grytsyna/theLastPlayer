@@ -4,6 +4,7 @@
 <h4> Number of players: 4 (1 player and 3 bots) </h4> 
 <h4> Seniority of cards: 2, 3, 4, 5, 6, 7, 8, 9, 10, J, Q, K, A. </h4> 
 <h4> The aim of the game is to score the fewest number of penalty points. </h4> 
+<img width="866" alt="game field" src="https://github.com/d-grytsyna/theLastPlayer/assets/129409885/c0ec7662-a843-4f0e-a9c5-ee52bf871238">
 
 A player may place any card he wishes open in the center of the table. 
 This card is the start of the discard. The turn then passes to the next player clockwise, 
