@@ -22,7 +22,7 @@ Some cards require certain actions from the players.
 
 **8** - Allowed to place on any card and the player who placed an eight may declare a new suit.
 <h6> Example: </h6>
-<img width="287" alt="Знімок екрана 2023-06-13 о 12 47 07" src="https://github.com/d-grytsyna/theLastPlayer/assets/129409885/53ec9524-9608-4579-ab1c-be08214dd564">
+<img width="215,5" alt="Знімок екрана 2023-06-13 о 12 47 07" src="https://github.com/d-grytsyna/theLastPlayer/assets/129409885/d5f8c073-16f4-416f-9725-b15db0ddaed4">
 
 **Jack** - The next player clockwise skips his turn.
 
