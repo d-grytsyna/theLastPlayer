@@ -4,7 +4,7 @@
 <h4> Number of players: 4 (1 player and 3 bots) </h4> 
 <h4> Seniority of cards: 2, 3, 4, 5, 6, 7, 8, 9, 10, J, Q, K, A. </h4> 
 <h4> The aim of the game is to score the fewest number of penalty points. </h4> 
-<img width="433" alt="game field" src="https://github.com/d-grytsyna/theLastPlayer/assets/129409885/c0ec7662-a843-4f0e-a9c5-ee52bf871238">
+<img width="435,5" alt="game field" src="https://github.com/d-grytsyna/theLastPlayer/assets/129409885/f41e6499-f425-48ed-969b-dde3b6ab81bb">
 
 A player may place any card he wishes open in the center of the table. 
 This card is the start of the discard. The turn then passes to the next player clockwise, 
@@ -22,7 +22,7 @@ Some cards require certain actions from the players.
 
 **8** - Allowed to place on any card and the player who placed an eight may declare a new suit.
 <h6> Example: </h6>
-<img width="215,5" alt="Знімок екрана 2023-06-13 о 12 47 07" src="https://github.com/d-grytsyna/theLastPlayer/assets/129409885/d5f8c073-16f4-416f-9725-b15db0ddaed4">
+<img width="215,5" alt="declaration of a new suit" src="https://github.com/d-grytsyna/theLastPlayer/assets/129409885/d5f8c073-16f4-416f-9725-b15db0ddaed4">
 
 **Jack** - The next player clockwise skips his turn.
 
@@ -32,6 +32,6 @@ Some cards require certain actions from the players.
 
 Thus the game goes on until there is one player left without cards. The remaining players with cards in their hands, calculate penalty points for them. The value of the cards in penalty points is as follows: King, Queen, Jack and 10 are worth 10 points; Ace, 15 points; 8, 25 points; Joker, 40 points. 
 <h6> The end of round: </h6>
-<img width="432,5" alt="Знімок екрана 2023-06-13 о 12 51 13" src="https://github.com/d-grytsyna/theLastPlayer/assets/129409885/545887e8-b766-47a4-a409-417cc89732bf">
+<img width="432,5" alt="the end of the round" src="https://github.com/d-grytsyna/theLastPlayer/assets/129409885/1ec23f1d-91f9-4629-9cba-b38e7c27b6ce">
 
 Any player who reaches or exceeds a certain number of points is eliminated from the game. **The last player to remain is the winner.**
