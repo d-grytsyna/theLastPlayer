@@ -21,8 +21,8 @@ Some cards require certain actions from the players.
 **5, 6, 7** - Allowed to place a four.
 
 **8** - Allowed to place on any card and the player who placed an eight may declare a new suit.
-Example: 
-<img width="431" alt="Знімок екрана 2023-06-13 о 12 47 07" src="https://github.com/d-grytsyna/theLastPlayer/assets/129409885/53ec9524-9608-4579-ab1c-be08214dd564">
+<h6> Example: </h6>
+<img width="287" alt="Знімок екрана 2023-06-13 о 12 47 07" src="https://github.com/d-grytsyna/theLastPlayer/assets/129409885/53ec9524-9608-4579-ab1c-be08214dd564">
 
 **Jack** - The next player clockwise skips his turn.
 
@@ -30,4 +30,8 @@ Example:
 
 **The joker** can replace any card of the player's choice.
 
-Thus the game goes on until there is one player left without cards. The remaining players with cards in their hands, calculate penalty points for them. The value of the cards in penalty points is as follows: King, Queen, Jack and 10 are worth 10 points; Ace, 15 points; 8, 25 points; Joker, 40 points. Any player who reaches or exceeds a certain number of points is eliminated from the game. The last player to remain is the winner.
+Thus the game goes on until there is one player left without cards. The remaining players with cards in their hands, calculate penalty points for them. The value of the cards in penalty points is as follows: King, Queen, Jack and 10 are worth 10 points; Ace, 15 points; 8, 25 points; Joker, 40 points. 
+<h6> The end of round: </h6>
+<img width="432,5" alt="Знімок екрана 2023-06-13 о 12 51 13" src="https://github.com/d-grytsyna/theLastPlayer/assets/129409885/545887e8-b766-47a4-a409-417cc89732bf">
+
+Any player who reaches or exceeds a certain number of points is eliminated from the game. **The last player to remain is the winner.**
